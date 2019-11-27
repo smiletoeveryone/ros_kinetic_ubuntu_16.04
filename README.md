@@ -11,7 +11,7 @@ sudo apt-key adv --keyserver 'hkp://keyserver.ubuntu.com:80' --recv-key C1CF6E31
 
 3.Installation
 
-sudo atp update
+sudo apt update
 
 Desktop-Full Install:
 
