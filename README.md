@@ -1,3 +1,4 @@
+![](https://github.com/smiletoeveryone/headless_raspberry_pi4/blob/master/raspbian%20os%20installation%20tutorial%20without%20a%20monitor.bmp)
 install ros kinetic on ubuntu 16.04(xenial) with 9 steps only
 
 1.Setup your sources.list
