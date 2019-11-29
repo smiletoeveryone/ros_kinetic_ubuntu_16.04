@@ -23,9 +23,9 @@ sudo apt install ros-kinetic-desktop-full
 
 6.echo "source /opt/ros/kinetic/setup.bash" >> ~/.bashrc
 
-7.source ~/.bashrc
+7.echo "source ~/catkin_ws/devel/setup.bash" >> ~/.bashrc
 
-8.source /opt/ros/kinetic/setup.bash
+8.source ~/.bashrc
 
 9.Dependencies for building packages
 
