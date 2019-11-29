@@ -15,7 +15,7 @@ sudo apt update
 
 Desktop-Full Install:
 
-sudo apt-get install ros-kinetic-desktop-full
+sudo apt install ros-kinetic-desktop-full
 
 4.sudo rosdep init
 
